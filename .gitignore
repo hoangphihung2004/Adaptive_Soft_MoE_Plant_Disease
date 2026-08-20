@@ -50,3 +50,12 @@ logs/
 
 # Local tool caches
 .qodo/
+
+# Results and output archives
+result/
+results/
+result_vmoe/
+result_softmoe/
+*.zip
+result_softMoE.zip
+result_vmoe.zip
