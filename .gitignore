@@ -59,3 +59,8 @@ result_softmoe/
 *.zip
 result_softMoE.zip
 result_vmoe.zip
+
+# Directories to ignore
+soft-moe/
+vmoe/
+save/
